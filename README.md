@@ -1,4 +1,4 @@
-Generate your own Modifie Candlestick Rocket charts:
+Generate your own Modified Candlestick Rocket charts:
 <img width="1790" height="790" alt="image" src="https://github.com/user-attachments/assets/3520cf93-23f4-4758-a278-2d23a03324b7" />
 
 How to run:
