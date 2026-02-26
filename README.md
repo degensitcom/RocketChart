@@ -3,6 +3,6 @@ Generate your own Modified Candlestick Rocket charts:
 
 How to run:
 1. Get your Coingecko API key from: https://www.coingecko.com/en/developers/dashboard
-2. Add key in chart_test.py at cg_key='' field
+2. Add key in chart_test.py at cg_key='' field eg. cg_key = 'CG-xxxx-xxxx'
 3. Do ```pip3 install -r requirements.txt```
 4. Run using  ```python3 chart_test.py```
